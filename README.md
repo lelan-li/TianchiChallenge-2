@@ -8,10 +8,10 @@
 <img src="fig/21.gif" height="200"/> <img src="fig/22.gif" height="200"/> <img src="fig/23.gif" height="200"/>
 
 ### 真肿瘤
-<img src="fig/31.gif" height="200"/> <img src="fig/32.gif" height="200"/> <img src="fig/33.gif" height="200"/>
+<img src="fig/31.gif" height="150"/> <img src="fig/32.gif" height="150"/> <img src="fig/33.gif" height="150"/>
 
 ### 假肿瘤
-<img src="fig/41.gif" height="200"/> <img src="fig/42.gif" height="200"/> <img src="fig/43.gif" height="200"/>
+<img src="fig/41.gif" height="150"/> <img src="fig/42.gif" height="150"/> <img src="fig/43.gif" height="150"/>
 
 ## Run
 ### Step 1
