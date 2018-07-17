@@ -1,6 +1,6 @@
 # Tianchi
 
-![1](fig/1.png “肺部原始图”)
+![1](fig/1.png “123”)
 ![2](fig/2.png)
 ![3](fig/3.png)
 ## Step 1
