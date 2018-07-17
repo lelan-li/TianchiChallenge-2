@@ -1,10 +1,17 @@
 # Tianchi
 
-## 肺部原始图，肺部腐蚀图，肺部气管图
+## 背景
+### 肺部原始图，肺部腐蚀图，肺部气管图
 <img src="fig/1.png" height="200"/> <img src="fig/2.png" height="200"/> <img src="fig/3.png" height="200"/>
 
-## 肺部2D图，肺部3D图，肺部阈值图
+### 肺部2D图，肺部3D图，肺部阈值图
 <img src="fig/21.gif" height="200"/> <img src="fig/22.gif" height="200"/> <img src="fig/23.gif" height="200"/>
+
+### 真肿瘤
+<img src="fig/31.gif" height="200"/> <img src="fig/32.gif" height="200"/> <img src="fig/33.gif" height="200"/>
+
+### 假肿瘤
+<img src="fig/41.gif" height="200"/> <img src="fig/42.gif" height="200"/> <img src="fig/43.gif" height="200"/>
 
 ## Step 1
 `python ./prepare/main.py`
