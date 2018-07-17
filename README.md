@@ -13,24 +13,25 @@
 ### 假肿瘤
 <img src="fig/41.gif" height="200"/> <img src="fig/42.gif" height="200"/> <img src="fig/43.gif" height="200"/>
 
-## Step 1
+## Run
+### Step 1
 `python ./prepare/main.py`
 
-## Step 2
+### Step 2
 ```
 python ./1_train/main.py
 python ./1_train/check.py
 ```
 
-## Step 3
+### Step 3
 ```
 python ./1_test/main.py
 python ./1_test/check.py
 ```
-## Step 4
+### Step 4
 `python ./1_test/save_csv.py`
 
-## Step 5
+### Step 5
 ```
 python ./2_train/create_data.py
 python ./2_train/check.py
