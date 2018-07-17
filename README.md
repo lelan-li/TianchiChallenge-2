@@ -14,8 +14,8 @@
 <img src="fig/41.gif" height="150"/> <img src="fig/42.gif" height="150"/> <img src="fig/43.gif" height="150"/>
 
 ## Run
-### Step 1
-```python ./prepare/main.py
+```
+python ./prepare/main.py
 
 python ./1_train/main.py
 python ./1_train/check.py
