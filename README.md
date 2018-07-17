@@ -15,7 +15,7 @@
 <img src="fig/41.gif" height="150"/> <img src="fig/42.gif" height="150"/> <img src="fig/43.gif" height="150"/>
 
 ### 絮状肿瘤，小肿瘤，肺壁肿瘤
-<img src="fig/41.gif" height="150"/> <img src="fig/42.gif" height="150"/> <img src="fig/43.gif" height="150"/>
+<img src="fig/51.gif" height="150"/> <img src="fig/52.gif" height="150"/> <img src="fig/53.gif" height="150"/>
 
 ## Run
 ```
