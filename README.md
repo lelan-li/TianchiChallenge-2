@@ -1,5 +1,6 @@
 # Tianchi
 
+![肺部原始图](fig/1.png)
 ## Step 1
 `python ./prepare/main.py`
 
