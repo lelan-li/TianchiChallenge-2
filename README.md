@@ -1,10 +1,10 @@
 # Tianchi
 
 ## 肺部原始图，肺部腐蚀图，肺部气管图
-![1](fig/1.png '肺部原始图') ![2](fig/2.png "肺部腐蚀图") ![3](fig/3.png "肺部气管图")
+![1](fig/1.png '肺部原始图' =200*) ![2](fig/2.png "肺部腐蚀图") ![3](fig/3.png "肺部气管图")
 
 ## 肺部2D图，肺部3D图，肺部阈值图
-![21](fig/21.gif) ![22](fig/22.gif) ![23](fig/3.gif)
+![21](fig/21.gif =200*) ![22](fig/22.gif) ![23](fig/23.gif)
 
 ## Step 1
 `python ./prepare/main.py`
