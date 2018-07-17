@@ -1,9 +1,10 @@
 # Tianchi
 
 ## 肺部原始图，肺部腐蚀图，肺部气管图
-<img src="fig/1.png" height="200" alt="肺部原始图"/><img src="fig/2.png" height="200" alt="肺部原始图"/><img src="fig/3.png" height="200" alt="肺部原始图"/>
+<img src="fig/1.png" height="200" tittle="肺部原始图"/><img src="fig/2.png" height="200" alt="肺部原始图"/><img src="fig/3.png" height="200" alt="肺部原始图"/>
 
 ## 肺部2D图，肺部3D图，肺部阈值图
+<img src="fig/1.png" height="200" alt="肺部原始图"/><img src="fig/2.png" height="200" alt="肺部原始图"/><img src="fig/3.png" height="200" alt="肺部原始图"/>
 ![21](fig/21.gif =200*) ![22](fig/22.gif) ![23](fig/23.gif)
 
 ## Step 1
