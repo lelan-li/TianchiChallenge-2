@@ -18,7 +18,7 @@
 <img src="fig/51.gif" height="150"/> <img src="fig/52.gif" height="150"/> <img src="fig/53.gif" height="150"/>
 
 ## 算法
-<img src="fig/6.png" height="150"/> 
+<img src="fig/6.png" height="250"/> 
 
 ## Run
 ```
