@@ -1,6 +1,8 @@
 # Tianchi
 
-![肺部原始图](fig/1.png'肺部原始图')|![2](fig/2.png'肺部腐蚀图')|![3](fig/3.png'肺部气管图')
+![肺部原始图](fig/1.png'肺部原始图')
+![2](fig/2.png'肺部腐蚀图')
+![3](fig/3.png'肺部气管图')
 ## Step 1
 `python ./prepare/main.py`
 
