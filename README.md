@@ -2,6 +2,7 @@
 
 ## 背景
 >肺部原始图，肺部腐蚀图，肺部气管图
+
 <img src="fig/1.png" height="200"/> <img src="fig/2.png" height="200"/> <img src="fig/3.png" height="200"/>
 
 ### 肺部2D图，肺部3D图，肺部阈值图
