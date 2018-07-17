@@ -17,7 +17,7 @@
 
 ## Step 5
 ```python ./2_train/create_data.py
-  python ./2_train/check.py
+   python ./2_train/check.py
   ```
 
 Created by lining@2017/9/30
