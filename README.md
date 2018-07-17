@@ -1,7 +1,7 @@
 # Tianchi
 
 ## 肺部原始图，肺部腐蚀图，肺部气管图
-<img src="fig/1.png" width="150" height="200" alt="肺部原始图"/>
+<img src="fig/1.png" height="200" alt="肺部原始图"/>
 ![1](fig/1.png '肺部原始图' =200) ![2](fig/2.png "肺部腐蚀图") ![3](fig/3.png "肺部气管图")
 
 ## 肺部2D图，肺部3D图，肺部阈值图
